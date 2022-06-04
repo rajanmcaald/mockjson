@@ -1,0 +1,47 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "React JS Development",
+      "description": "Best course on React JS Development."
+    },
+    {
+      "id": 2,
+      "title": "Angular Development",
+      "description": "Best course on Angular Development."
+    },
+    {
+      "id": 3,
+      "title": "React Native Development",
+      "description": "Best course on React Native Development."
+    },
+    {
+      "id": 4,
+      "title": "Node Js Development",
+      "description": "Best course on Node Js Development."
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Monday WFH Checkin Call",
+      "date": "21/04/2020",
+      "time": "09:15 AM",
+      "description": "Everyone should be muted and video on for this session."
+    },
+    {
+      "id": 2,
+      "name": "UAT Call with CWS",
+      "date": "21/04/2020",
+      "time": "02:30 AM",
+      "description": "Everyone should be muted and video on for this session."
+    },
+    {
+      "id": 3,
+      "name": "Call with Accenture",
+      "date": "23/04/2020",
+      "time": "03:30 AM",
+      "description": "Everyone should be muted and video on for this session."
+    }
+  ]
+}
